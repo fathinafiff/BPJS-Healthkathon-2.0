@@ -1,0 +1,9 @@
+External Data Sources
+
+BPS. (2022). Angka Harapan Hidup (AHH) Menurut Provinsi dan Jenis Kelamin (Tahun), 2020-2022. Retrieved from https://www.bps.go.id/indicator/40/501/1/angka-harapan-hidup-ahh-menurut-provinsi-dan-jenis-kelamin.html
+BPS. (2019). Angka Harapan Hidup (AHH) Menurut Provinsi dan Jenis Kelamin (Tahun), 2017-2019. Retrieved from https://www.bps.go.id/indicator/40/501/2/angka-harapan-hidup-ahh-menurut-provinsi-dan-jenis-kelamin.html
+BPS. (2016). Angka Harapan Hidup (AHH) Menurut Provinsi dan Jenis Kelamin (Tahun), 2014-2016. Retrieved from https://www.bps.go.id/indicator/40/501/3/angka-harapan-hidup-ahh-menurut-provinsi-dan-jenis-kelamin.html
+BPS. (2013). Angka Harapan Hidup (AHH) Menurut Provinsi dan Jenis Kelamin (Tahun), 2011-2013. Retrieved from https://www.bps.go.id/indicator/40/501/4/angka-harapan-hidup-ahh-menurut-provinsi-dan-jenis-kelamin.html
+BPS. (2010). Angka Harapan Hidup (AHH) Menurut Provinsi dan Jenis Kelamin (Tahun), 2010. Retrieved from https://www.bps.go.id/indicator/40/501/5/angka-harapan-hidup-ahh-menurut-provinsi-dan-jenis-kelamin.html
+Kemenkes. (2019). Data dan Informasi Profil Kesehatan Indonesia 2019. Retrieved from https://www.kemkes.go.id/folder/view/01/structure-publikasi-pusdatin-profil-kesehatan.html
+
